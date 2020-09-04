@@ -2,8 +2,8 @@
 author = "John Doe"
 date = 2018-09-12T08:51:12Z
 description = "This is meta description"
-image = "images/blog/blog-post-2.jpg"
-image_webp = "images/blog/blog-post-2.webp"
+image = "/images/zosia-robus-joda.png"
+image_webp = "/images/zosia-robus-joda.png"
 title = "Arendla"
 
 +++
